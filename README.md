@@ -8,5 +8,5 @@ In the R file, it contains the basic functions and practices of causal inference
 
 
 More reference resources:
-- Mostly Harmless Econometrics 
+- Mostly Harmless Econometrics [book]<https://www.dsecoaching.com/pdf/2008%20Angrist%20Pischke%20MostlyHarmlessEconometrics.pdf>
 - Econometrics by Greene 
